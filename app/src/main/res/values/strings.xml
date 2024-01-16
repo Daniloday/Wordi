@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wordi</string>
+
+    <string name="next">Next</string>
+    <string name="daily">Daily</string>
+    <string name="random">Random</string>
+</resources>
